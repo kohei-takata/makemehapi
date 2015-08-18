@@ -1,0 +1,41 @@
+{
+  "title": "HAPIでRESTしましょう",
+  "subtitle": "\u001b[23m問題を選び \u001b[3mエンター\u001b[23m で始めましょう",
+  "menu": {
+    "credits": "謝辞"
+  },
+  "common": {
+    "exercise": {
+      "fail": {
+        "cannot_connect": "http://localhost:%d: %s に接続できません。",
+        "page_not_found": "%s のページは見つかりません。",
+        "wrong_status_code": "%s のURLからは予期された %d ではなく、ステータスコード %d がリターンされました。"
+      }
+    }
+  },
+  "exercise": {
+    "HELLO_HAPI": "こんにちは、HAPI",
+    "ROUTES": "ルーティング",
+    "HANDLING": "ハンドリング",
+    "DIRECTORIES": "ディレクトリ",
+    "VIEWS": "ビュー",
+    "PROXIES": "プロキシ",
+    "HELPING": "ヘルピング",
+    "STREAMS": "ストリーム",
+    "VALIDATION": "バリデーション",
+    "VALIDATION USING JOI OBJECT": "JOIオブジェクトを使用したバリデーション",
+    "UPLOADS": "アップロード",
+    "COOKIES": "クッキー"
+  },
+  "exercises": {
+    "VIEWS": {
+      "name_param": "ハンドリング"
+    },
+    "PROXIES": {
+      "greeting": "こんにちは、プロキシ"
+    },
+    "HELPING": {
+      "name_param": "助力"
+    }
+  }
+}
