@@ -14,7 +14,7 @@
     }
   },
   "exercise": {
-    "HELLO_HAPI": "こんにちは、HAPI",
+    "HELLO_HAPI": "こんにちはHAPI",
     "ROUTES": "ルーティング",
     "HANDLING": "ハンドリング",
     "DIRECTORIES": "ディレクトリ",
